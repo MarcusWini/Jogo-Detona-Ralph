@@ -1,4 +1,1 @@
-function teste()
-{ alert("Funcionando!")}
-
 
