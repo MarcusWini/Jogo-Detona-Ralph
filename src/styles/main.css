@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-image: url("../images/wall.png");
 }
 
 .menu{
@@ -32,6 +33,8 @@
 }
 
 .enemy{
-    background-color: #ff0000;
+background-image: url("../images/ralph.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 }
-/*PAREI EM CRIANDO PAINEIS PRINCIPAIS*/
